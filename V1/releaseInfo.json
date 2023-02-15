@@ -1,5 +1,5 @@
 {
   "date": "2023-02-15",
   "version": "1.0.8",
-  "releaseNote": "New Pairing Method"
+  "releaseNote": "Fixed key process duplicate bug"
 }
